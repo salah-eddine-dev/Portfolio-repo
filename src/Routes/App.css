@@ -1,0 +1,9 @@
+
+body{
+    background-color: rgb(29, 28, 28) !important;
+    color: white !important;
+}
+
+.list-style-none{
+    list-style-type: none;
+}
